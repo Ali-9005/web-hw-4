@@ -1,1 +1,24 @@
 /* 🎓 تحت هذا التعليق أتحفونا بتصاميمكم التي تليق بقدر حاسبة الدرجات */
+
+ body {
+    text-align: center;
+}
+
+#submitButton {
+    color: limegreen
+    
+}
+
+#submitButton:hover {
+    transform: scale(1.1);
+}
+
+#final_grade {
+    color: aqua;
+}
+
+.directions {
+    font-size: 40px;
+    padding: 10px;
+    margin: 20px
+}
